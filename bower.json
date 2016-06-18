@@ -1,0 +1,17 @@
+{
+  "name": "reginaldojunior.github.io",
+  "homepage": "reginaldojunior.github.io",
+  "authors": [
+    "Reginaldo Junior <76regi@gmail.com>"
+  ],
+  "description": "Blog and Site Personal",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
